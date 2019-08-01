@@ -4,6 +4,11 @@
       "id": 1,
       "src": "http://localhost:9000/images/kitten.jpeg",
       "caption": "kitteh"
+    },
+    {
+      "caption": "test",
+      "src": "http://localhost:9000/images/disneylandmap.jpg",
+      "id": 2
     }
   ]
 }
